@@ -2,21 +2,21 @@
     "position": 0,
     "right_to_left": false,
     "description": [
-        "Download YouTube videos as audio-only files to take wherever you go!\\n\\n",
+        "ویدیو های یوتیوب را تنها به صورت صوتی دریافت کنید!\\n\\n",
         "Mirror: @YTAudio_Bot"
     ],
     "type_search_terms": "{MEMO} Type your search terms",
-    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} Search \\\"{terms}\\\" on YouTube",
-    "error": "{PENSIVE_FACE} An error occurred. Try again later.",
-    "longer_download_time": "{WARNING} **This video can take longer time than usual. Download may even fail!**",
-    "clear_history_warning": "{WARNING} You are about to clear your entire history!",
+    "search_on_youtube": "{MAGNIFYING_GLASS_TILTED_RIGHT} جستجو \\\"{terms}\\\" در یوتیوب",
+    "error": "{PENSIVE_FACE} خطایی پیش آمد لطفا دوباره تلاش کنید.",
+    "longer_download_time": "{WARNING} **این ویدیو به علت حجیم بودن ممکن است دیر تر دانلود شود حتی ممکن است لغو شود!**",
+    "clear_history_warning": "{WARNING} شما در حال حذف تمام تاریخچه خود هستیدانلو,
     "history_settings": [
-        "{HOURGLASS_DONE} **Download history**\\n\\n",
-        "{There are no items|There's one item|There are # items} in your download history."
+        "{HOURGLASS_DONE} **تاریخچه دانلود**\\n\\n",
+        "{نتیجه ای نیست|یک نتیجه پیدا شد|تعداد # نتیجه پیدا شد} در تاریخچه دانلود شما ."
     ],
     "clear_history_confirmation": [
-        "{WASTEBASKET} **Clear all download history**\\n\\n",
-        "Are you sure you want to clear your entire download history? **You can't undo this.**"
+        "{WASTEBASKET} **پاک کردن تاریخچه دانلود**\\n\\n",
+        "ایا واقعا می خواهید تمام تاریخچه دانلود خود را پاک کنید؟ **قابل برگشت نخواهد بود.**"
     ],
     "added_seconds_ago": "Added {0 seconds|a second|# seconds} ago",
     "added_minutes_ago": "Added {0 minutes|a minute|# minutes} ago",
